@@ -1,4 +1,7 @@
 apply plugin: 'com.android.library'
+group = 'com.gitlab.ajayjg'
+version = '1.0'
+
 
 android {
     compileSdkVersion 28
